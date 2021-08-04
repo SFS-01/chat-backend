@@ -1,0 +1,11 @@
+{
+	"r": "residential",
+	"c": "commercial",
+	"o": "office",
+	"f": "recreational",
+	"i": "industrial",
+	"t": "transportation, Comm & Utilities",
+	"a": "agricultural",
+	"v": "vacant Land",
+	"e": "exempt"
+}
